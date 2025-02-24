@@ -1,3 +1,5 @@
+# telegram-bot
+
 🚀 AI-Powered Telegram Chatbot with Google Gemini, NER & Redis Caching
 A smart Telegram chatbot powered by Google Gemini AI, featuring Named Entity Recognition (NER) using spaCy, Sentiment Analysis with NLTK, and Redis caching for optimized performance.
 
