@@ -1,4 +1,1 @@
 # telegram-bot
-
-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
-
